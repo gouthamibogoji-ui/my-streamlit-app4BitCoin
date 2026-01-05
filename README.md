@@ -9,21 +9,27 @@ This project is designed for learning, portfolio analysis, and ML-based trading 
 - Short-term and long-term price visualizations  
 - Profit / Loss simulation  
 - Interactive Streamlit dashboard
+
 BTC_Close (Previous Day):
 •	Description: The closing price of Bitcoin (BTC) on the previous day.
 •	Reason for Inclusion: The previous day's close price can be a strong indicator of the current day's price due to market trends and momentum.
+
 BTC_Volume:
 •	Description: The trading volume of Bitcoin (BTC) on the previous day.
 •	Reason for Inclusion: Higher trading volumes can indicate higher market interest and can be correlated with price movements.
+
 ETH_Close:
 •	Description: The closing price of Ethereum (ETH) in USD.
 •	Reason for Inclusion: As one of the largest cryptocurrencies by market cap, Ethereum's price can impact Bitcoin's price due to investor behavior and market trends.
+
 ETH_Volume:
 •	Description: The trading volume of Ethereum (ETH) in the given period.
 •	Reason for Inclusion: Similar to BTC volume, ETH volume can indicate market interest and trading activity.
+
 USDT_Close:
 •	Description: The closing price of Tether (USDT) in USD.
 •	Reason for Inclusion: Tether's price stability makes it a key trading pair with BTC, and its behavior can reflect market liquidity and sentiment.
+
 USDT_Volume:
 •	Description: The trading volume of Tether (USDT) in the given period.
 •	Reason for Inclusion: USDT volume can indicate the level of market activity and liquidity, which can affect BTC prices.
