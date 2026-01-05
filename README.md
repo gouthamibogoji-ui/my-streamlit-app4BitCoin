@@ -34,11 +34,12 @@ The model predicts BTC price using the following market features:
 | Predicted Price < Current Price − 1% | SELL   |
 | Otherwise                            | HOLD   |
 
-## Risk Classification
-Volatility %	  Risk Level
-< 3%	  ------->✅ Low Risk
-3% – 6% ------->⚠️ Medium Risk
-> 6%	  ------->🚨 High Risk
+### Risk Classification
+| Volatility (%) | Risk Level |
+|----------------|------------|
+| < 3%           | Low Risk   |
+| 3% – 6%        | Medium Risk|
+| > 6%           | High Risk  |
 
 The application clearly indicates whether **risk is present or not**.
 
