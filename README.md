@@ -54,4 +54,27 @@ The application clearly indicates whether **risk is present or not**.
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Scikit-learn    
+- Scikit-learn
+
+## Installation & Usage
+
+### Clone the Repository
+git clone https://github.com/gouthamibogoji-ui/my-streamlit-app4BitCoin.git
+cd my-streamlit-app4BitCoin
+
+### Install Dependencies
+pip install -r requirements.txt
+
+### Run the Application
+streamlit run app.py
+
+## Project Structure
+my-streamlit-app4BitCoin/
+│
+├── cryptoanalysisapp.py
+├── random_forest_model.pkl
+├── requirements.txt
+└── README.md
+
+## Author
+Gouthami Bogoji  
