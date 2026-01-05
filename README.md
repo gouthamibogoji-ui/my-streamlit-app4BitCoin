@@ -1,20 +1,19 @@
 This project is a A Streamlit-based Machine Learning web application that predicts Bitcoin (BTC) price, generates trade signals, and performs volatility-based risk analysis using a Random Forest Regressor.
 This project is designed for learning, portfolio analysis, and ML-based trading insights.
 
-## Features:
-✔ Bitcoin Price Prediction using Random Forest
-✔ Trade Signal Detection (BUY / SELL / HOLD)
-✔ Model Confidence Score
-✔ Volatility-Based Risk Analysis
-✔ Short-Term & Long-Term Price Visualization
-✔ Profit / Loss Simulation
-✔ Clean & Interactive Streamlit UI
+## Features
+- Bitcoin price prediction using a trained Random Forest model  
+- BUY / SELL / HOLD trade signal generation  
+- Model confidence score  
+- Volatility-based risk analysis  
+- Short-term and long-term price visualizations  
+- Profit / Loss simulation  
+- Interactive Streamlit dashboard  
 
-## Machine Learning Model:
-Algorithm: Random Forest Regressor
-Training Data: Crypto market features (USDT & BNB)
-Model Accuracy: 92.5% (Training Accuracy)
-Saved Model: random_forest_model.pkl,scalar.pkl
+## Machine Learning Model
+- Algorithm: Random Forest Regressor  
+- Model Accuracy: 92.5% (training accuracy)  
+- Saved Model File: `random_forest_model.pkl`  
 
 ## Input Features
 The model predicts BTC price using the following market features:
