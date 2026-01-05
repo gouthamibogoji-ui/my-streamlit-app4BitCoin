@@ -110,7 +110,7 @@ my-streamlit-app4BitCoin/
 
 │
 
-├── app.py
+├── cryptoanalysisapp.py
 
 ├── random_forest_model.pkl
 
