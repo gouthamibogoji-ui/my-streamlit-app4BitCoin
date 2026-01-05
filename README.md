@@ -38,6 +38,7 @@ BTC_Volume:
 •	Reason for Inclusion: Higher trading volumes can indicate higher market interest and can be correlated with price movements.
 
 ETH_Close:
+
 •	Description: The closing price of Ethereum (ETH) in USD.
 
 •	Reason for Inclusion: As one of the largest cryptocurrencies by market cap, Ethereum's price can impact Bitcoin's price due to investor behavior and market trends.
