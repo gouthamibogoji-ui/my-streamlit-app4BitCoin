@@ -70,10 +70,15 @@ streamlit run app.py
 
 ## Project Structure
 my-streamlit-app4BitCoin/
+
 │
+
 ├── cryptoanalysisapp.py
+
 ├── random_forest_model.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 ## Author
