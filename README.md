@@ -105,16 +105,13 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Project Structure
+
 my-streamlit-app4BitCoin/
-
 │
-
-├── cryptoanalysisapp.py
-
+├── app.py
 ├── random_forest_model.pkl
-
+├── scaler.pkl
 ├── requirements.txt
-
 └── README.md
 
 ## Author
