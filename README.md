@@ -101,6 +101,8 @@ cd my-streamlit-app4BitCoin
 ### Install Dependencies
 pip install -r requirements.txt
 
+Please make sure the app file & pickle files is in one folder to run the app
+
 ### Run the Application
 streamlit run app.py
 
@@ -109,6 +111,8 @@ streamlit run app.py
 my-streamlit-app4BitCoin/
 
 │
+
+├── Bitcoinpriceprediction.ipynb
 
 ├── cryptoanalysisapp.py
 
