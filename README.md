@@ -107,11 +107,17 @@ streamlit run app.py
 ## Project Structure
 
 my-streamlit-app4BitCoin/
+
 │
+
 ├── app.py
+
 ├── random_forest_model.pkl
+
 ├── scaler.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 ## Author
